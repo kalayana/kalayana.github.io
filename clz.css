@@ -1,0 +1,57 @@
+		.topnav {
+  overflow: hidden;
+  background-size:cover;
+  padding: 10px 15px;
+  float: center;
+  bottom: 0;
+  background-color: grey;
+  margin:0 auto;
+}
+img {
+  opacity: 1;
+  width:100%;
+  height: auto;
+}
+.topnav a {
+  float: left;
+  color: #f2f2f2;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-size: 20px;
+}
+
+/* Change the color of links on hover */
+.topnav a:hover {
+  background-color:grey;
+  color: black;
+}
+
+/* Add a color to the active/current link */
+.topnav a.active {
+  background-color: #00055a;
+  color: white;
+}
+p{
+  text-align: right;
+}
+h3{
+  color: blue;
+  background-color: red;
+  text-align: center;
+border-bottom: 2px solid black;
+border-top: 2px solid black;
+border-right: 0.5px;
+width: 500px;
+align-content: center;
+margin: 25px auto 75px;
+border-radius: 25px;
+font-size: 30px;
+float: auto;
+}
+body{
+  background-color: #bdd6e0;
+}
+ul{
+  font-size: 40px;
+}
